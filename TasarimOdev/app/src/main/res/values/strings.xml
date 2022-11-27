@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TasarimOdev</string>
+    <string name="Calma_listem">My Playlist</string>
+    <string name="sarkılar">24 songs</string>
+    <string name="karıstır">Shuffle Play</string>
+    <string name="Songl">Song List</string>
+</resources>

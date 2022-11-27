@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasarım Ödevi</string>
+    <string name="Calma_listem">Çalma Listem</string>
+    <string name="sarkılar">24 şarkı</string>
+    <string name="karıstır">Karıştır</string>
+    <string name="Songl">Şarkı Listesi</string>
+    
+    
+</resources>
